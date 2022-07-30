@@ -1,0 +1,55 @@
+.kryg{
+    
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    
+
+    
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -20px;
+}
+
+
+.one{
+    border:solid 3px blue;
+    margin-right: -10px;
+    margin-top: 250px;
+}
+
+.two{
+    border:solid 3px rgb(0, 0, 0);
+    margin-top: 250px;
+    
+}   
+
+.three{
+    border:solid 3px rgb(255, 0, 0);
+    margin-left: -10px;
+    margin-top: 250px;
+}
+
+.four{
+    border:solid 3px rgb(242, 255, 0);
+    margin-right: -10px;
+    
+    
+}
+
+.five{
+    border:solid 3px rgb(55, 255, 0);
+    
+  
+}
+
